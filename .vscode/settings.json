@@ -1,0 +1,15 @@
+{
+  "editor.rulers": [80],
+  "editor.formatOnSave": true,
+  "prettier.tabWidth": 2,
+  "editor.tabSize": 2,
+  "editor.snippetSuggestions": "top",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#ce3240",
+    "titleBar.inactiveBackground": "#ce324099",
+    "titleBar.border": "#ce3240"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
